@@ -1,6 +1,6 @@
 {
   "bundles": {
-    "NenadStef\\AdvancedUserBundle": ["all"]
+    "Advanced\\UserBundle\\AdvancedUserBundle": ["all"]
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"
