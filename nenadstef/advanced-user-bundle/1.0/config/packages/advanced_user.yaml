@@ -1,2 +1,2 @@
 advanced_user:
-  db_driver: orm
+    db_driver: orm
